@@ -1,6 +1,5 @@
 console.log("welcome to CV Scanner Project");
 //"https://randomuser.me/api/portraits/men/75.jpg"
-
 const data = [
   {
     name: "Ravi Sharan",
